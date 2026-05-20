@@ -5,7 +5,7 @@ public class Main {
         Piso piso5 = new Piso(5);
         piso3.llamarAscensor();
         ascensor.mover(3);
-        piso5.llamarAscensor();
-        ascensor.mover(5);
-    }
+        piso5.llamarAscensor(); 
+        ascensor.ejecutar()
+        }
 } 
