@@ -6,6 +6,8 @@ public class Piso {
         this.numero =numero;
         boton=new BotonPiso();
         puerta=new puertapiso
+        
+        
     }
     public void llamarAscensor() {
         System.out.println("Piso" + numero);
