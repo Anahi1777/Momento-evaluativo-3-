@@ -1,4 +1,4 @@
-public class Main {
+public class EjecutarAscensor {
     public static void main (String[] args) {
         Ascensor ascensor = new Ascensor();
         ascensor.llamarAscensor(5);
